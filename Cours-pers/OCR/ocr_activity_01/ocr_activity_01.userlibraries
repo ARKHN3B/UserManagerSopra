@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.annotation.jar" />
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.jms.jar" />
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.ejb.jar" />
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.persistence.jar" />
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.transaction.jar" />
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.servlet.jsp.jar" />
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.resource.jar" />
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.servlet.jar" />
+    <archive path="/Users/benlmsc/Documents/Programming/htdocs-v2/JAVAEE/OCR/ocr_activity_01/lib/javax.servlet.jsp.jstl.jar" />
+  </library>
+</eclipse-userlibraries>
+
